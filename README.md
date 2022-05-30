@@ -6,6 +6,8 @@ Workshop by Sam Lavigne for [Sonic Acts](https://sonicacts.com), June 9th, 2022.
 
 For this workshop you'll need [python](https://python.org) (version 3.6 or greater), [ffmpeg](https://ffmpeg.org/), and [videogrep](https://antiboredom.github.io/videogrep/) installed on your computer.
 
+----
+
 ### For Mac Users
 
 
@@ -73,6 +75,7 @@ pip3 install vosk
 NOTE: if you are on a new Mac, installing vosk may not work. Don't be alarmed.
 
 
+----
 
 ### For Windows Users
 
